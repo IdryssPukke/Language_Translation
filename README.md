@@ -1,3 +1,3 @@
 # Language_Translation
 
-Narzędzie do oceny jakości tłumaczeń pomiędzy językiem angielskim, a niemieckim przy wykorzystaniu transformerów.
+A tool to assess the quality of translations between English and German using transformers.
